@@ -1,5 +1,5 @@
 Projeto Pokedex
 
-1 - Instalar o npm install
+1 - Instalar o "yarn"
 
-Modo de uso: A pokedex e bastante simples, ela basicamente tem um numero de 649 pokemons, sendo eles podendo checar seus status ao passar o mouse me cima, ou ir para outra tela clicando em cima.
+2 - e executar no terminal "yarn start"
